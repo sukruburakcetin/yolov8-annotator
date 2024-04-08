@@ -47,7 +47,7 @@ Data Organization
 
 ## Starter Guide
 
-If you're new to Labelme, you can get started with [yolov8_seg_annotator Guide]() which contains:
+If you're new, you can get started with [yolov8_seg_annotator Guide]() which contains:
 
 - **Installation guides** for all platforms: Windows. 💪🏼
 - **Step-by-step tutorials**: first annotation to editing, exporting, and integrating with other programs. 🤭
